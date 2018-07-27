@@ -1,0 +1,9 @@
+.sidebar-heading {
+    font-size: 230%;
+}
+
+.sidebar-heading a {
+    color: #000;
+    text-shadow: 3px 3px #ff7473;
+    
+}    
