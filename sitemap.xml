@@ -7,6 +7,11 @@
   </url>
   
   <url>
+    <loc>https://www.duncangeere.com/portfolio/xroadmap/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.duncangeere.com/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
   </url>
@@ -38,11 +43,8 @@
   
   <url>
     <loc>https://www.duncangeere.com/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/xroadmap/</loc>
   </url>
   
   <url>
@@ -63,6 +65,7 @@
   
   <url>
     <loc>https://www.duncangeere.com/portfolio/</loc>
+    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
