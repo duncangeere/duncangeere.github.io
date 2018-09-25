@@ -4,11 +4,72 @@
   
   <url>
     <loc>https://www.duncangeere.com/portfolio/newsletter/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://www.duncangeere.com/portfolio/xroadmap/</loc>
     <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/solartrains/</loc>
+    <lastmod>2018-07-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/blockoftheweek/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/dieselgate/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/drrobot/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/disappearinglanguages/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/fowlplague/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/heatpumps/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/organsonchips/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/ntds/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/quarilateres/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/nuclearenergy/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.duncangeere.com/portfolio/nametheweather/</loc>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -21,73 +82,25 @@
   </url>
   
   <url>
-    <loc>https://www.duncangeere.com/portfolio/blockoftheweek/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.duncangeere.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://www.duncangeere.com/portfolio/dieselgate/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/drrobot/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/disappearinglanguages/</loc>
-  </url>
-  
-  <url>
     <loc>https://www.duncangeere.com/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/fowlplague/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/heatpumps/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/organsonchips/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/ntds/</loc>
   </url>
   
   <url>
     <loc>https://www.duncangeere.com/portfolio/</loc>
-    <lastmod>2018-09-24T00:00:00+00:00</lastmod>
+    <lastmod>2018-07-24T00:00:00+00:00</lastmod>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/solartrains/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/quarilateres/</loc>
   </url>
   
   <url>
     <loc>https://www.duncangeere.com/tags/</loc>
     <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/nuclearenergy/</loc>
-  </url>
-  
-  <url>
-    <loc>https://www.duncangeere.com/portfolio/nametheweather/</loc>
   </url>
   
 </urlset>

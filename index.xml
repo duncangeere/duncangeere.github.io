@@ -6,7 +6,7 @@
     <description>Recent content on Duncan Geere</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://www.duncangeere.com/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Duncan&#39;s Newsletter</title>
       <link>https://www.duncangeere.com/portfolio/newsletter/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/newsletter/</guid>
       <description>&lt;p&gt;Every Saturday morning I send out a newsletter, curating long reads, data journalism, maps and other interesting links.
@@ -33,9 +33,20 @@
     </item>
     
     <item>
+      <title>Solar Trains</title>
+      <link>https://www.duncangeere.com/portfolio/solartrains/</link>
+      <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.duncangeere.com/portfolio/solartrains/</guid>
+      <description>&lt;p&gt;Illustration and cartography for a report into the potential for solar powered trains.&lt;/p&gt;
+
+&lt;p&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Block of the Week</title>
       <link>https://www.duncangeere.com/portfolio/blockoftheweek/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/blockoftheweek/</guid>
       <description>&lt;p&gt;A series for the official Minecraft website, covering every block in the game.&lt;/p&gt;
@@ -46,7 +57,7 @@
     <item>
       <title>Cleaning Up After Dieselgate</title>
       <link>https://www.duncangeere.com/portfolio/dieselgate/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/dieselgate/</guid>
       <description>&lt;p&gt;Article about Volkswagen&amp;rsquo;s emissions-cheating scandal.&lt;/p&gt;
@@ -57,7 +68,7 @@
     <item>
       <title>Confronting Dr Robot</title>
       <link>https://www.duncangeere.com/portfolio/drrobot/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/drrobot/</guid>
       <description>&lt;p&gt;Editing on a Nesta report about the impact of artificial intelligence on healthcare.&lt;/p&gt;
@@ -68,7 +79,7 @@
     <item>
       <title>Disappearing Languages</title>
       <link>https://www.duncangeere.com/portfolio/disappearinglanguages/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/disappearinglanguages/</guid>
       <description>&lt;p&gt;Writing, development and data visualisation for a visual essay on the world&amp;rsquo;s endangered languages.&lt;/p&gt;
@@ -79,7 +90,7 @@
     <item>
       <title>Fowl Plague</title>
       <link>https://www.duncangeere.com/portfolio/fowlplague/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/fowlplague/</guid>
       <description>&lt;p&gt;A series for How We Get To Next about the past, present and future of avian influenza.&lt;/p&gt;
@@ -90,7 +101,7 @@
     <item>
       <title>Lost Rivers: Heat Pumps</title>
       <link>https://www.duncangeere.com/portfolio/heatpumps/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/heatpumps/</guid>
       <description>&lt;p&gt;Explainer on how heat pumps work for a report exploring the potential to harvest heat energy from London&amp;rsquo;s hidden underground rivers.&lt;/p&gt;
@@ -101,7 +112,7 @@
     <item>
       <title>Make Your Own Organ-On-a-Chip</title>
       <link>https://www.duncangeere.com/portfolio/organsonchips/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/organsonchips/</guid>
       <description>&lt;p&gt;Development of an simulation showing how an organ-on-a-chip works.&lt;/p&gt;
@@ -112,7 +123,7 @@
     <item>
       <title>Neglected Tropical Diseases</title>
       <link>https://www.duncangeere.com/portfolio/ntds/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/ntds/</guid>
       <description>&lt;p&gt;Writing, development and data visualisations for an explainer on neglected tropical diseases (NTDs).&lt;/p&gt;
@@ -121,20 +132,9 @@
     </item>
     
     <item>
-      <title>Solar Trains</title>
-      <link>https://www.duncangeere.com/portfolio/solartrains/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.duncangeere.com/portfolio/solartrains/</guid>
-      <description>&lt;p&gt;Illustration and cartography for a report into the potential for solar powered trains.&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Structure de Quadrilatéres</title>
       <link>https://www.duncangeere.com/portfolio/quarilateres/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/quarilateres/</guid>
       <description>&lt;p&gt;Animated algorithmic art on Observablehq.com.&lt;/p&gt;
@@ -145,7 +145,7 @@
     <item>
       <title>Where Next for Nuclear Energy?</title>
       <link>https://www.duncangeere.com/portfolio/nuclearenergy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/nuclearenergy/</guid>
       <description>&lt;p&gt;Article about nuclear power in the wake of Chernobyl and Fukushima.&lt;/p&gt;
@@ -156,7 +156,7 @@
     <item>
       <title>Why We Name The Weather</title>
       <link>https://www.duncangeere.com/portfolio/nametheweather/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/nametheweather/</guid>
       <description>&lt;p&gt;An article exploring the tradition of naming storms and other extreme weather events.&lt;/p&gt;
