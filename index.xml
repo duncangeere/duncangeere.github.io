@@ -22,22 +22,22 @@
     </item>
     
     <item>
-      <title>Bar &amp; Line</title>
-      <link>https://www.duncangeere.com/portfolio/blog/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://www.duncangeere.com/portfolio/blog/</guid>
-      <description>&lt;p&gt;I write dailyish posts on my workblog, showcasing creative inspiration and in-progress projects.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Hello From Duncan</title>
       <link>https://www.duncangeere.com/portfolio/newsletter/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
       <guid>https://www.duncangeere.com/portfolio/newsletter/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been writing a regular newsletter since April 2017.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bar &amp; Line</title>
+      <link>https://www.duncangeere.com/portfolio/blog/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.duncangeere.com/portfolio/blog/</guid>
+      <description>&lt;p&gt;I write dailyish posts on my workblog, showcasing creative inspiration and in-progress projects.
 &lt;/p&gt;</description>
     </item>
     
