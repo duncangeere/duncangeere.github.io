@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Duncan Geere</title>
-    <link>https://www.duncangeere.com/</link>
+    <link>https://old.duncangeere.com/</link>
     <description>Recent content on Duncan Geere</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 30 Apr 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://www.duncangeere.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://old.duncangeere.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Plottervision</title>
-      <link>https://www.duncangeere.com/portfolio/plottervision/</link>
+      <link>https://old.duncangeere.com/portfolio/plottervision/</link>
       <pubDate>Thu, 30 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/plottervision/</guid>
+      <guid>https://old.duncangeere.com/portfolio/plottervision/</guid>
       <description>&lt;p&gt;A YouTube channel documenting my pen plotter experiments.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Hello From Duncan</title>
-      <link>https://www.duncangeere.com/portfolio/newsletter/</link>
+      <link>https://old.duncangeere.com/portfolio/newsletter/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/newsletter/</guid>
+      <guid>https://old.duncangeere.com/portfolio/newsletter/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been writing a regular newsletter since April 2017.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bar &amp; Line</title>
-      <link>https://www.duncangeere.com/portfolio/blog/</link>
+      <link>https://old.duncangeere.com/portfolio/blog/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/blog/</guid>
+      <guid>https://old.duncangeere.com/portfolio/blog/</guid>
       <description>&lt;p&gt;I write dailyish posts on my workblog, showcasing creative inspiration and in-progress projects.
 &lt;/p&gt;</description>
     </item>
     
     <item>
       <title>A Dashboard for Planet Earth</title>
-      <link>https://www.duncangeere.com/portfolio/pboundaries/</link>
+      <link>https://old.duncangeere.com/portfolio/pboundaries/</link>
       <pubDate>Mon, 20 Apr 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/pboundaries/</guid>
+      <guid>https://old.duncangeere.com/portfolio/pboundaries/</guid>
       <description>&lt;p&gt;A new way of looking at storytelling in data visualization.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -54,10 +54,10 @@
     
     <item>
       <title>The Drawdown Review</title>
-      <link>https://www.duncangeere.com/portfolio/drawdownreview/</link>
+      <link>https://old.duncangeere.com/portfolio/drawdownreview/</link>
       <pubDate>Tue, 03 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/drawdownreview/</guid>
+      <guid>https://old.duncangeere.com/portfolio/drawdownreview/</guid>
       <description>&lt;p&gt;Data visualisation for a report on climate solutions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -65,10 +65,10 @@
     
     <item>
       <title>Our Future On Earth</title>
-      <link>https://www.duncangeere.com/portfolio/ourfutureonearth/</link>
+      <link>https://old.duncangeere.com/portfolio/ourfutureonearth/</link>
       <pubDate>Mon, 10 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/ourfutureonearth/</guid>
+      <guid>https://old.duncangeere.com/portfolio/ourfutureonearth/</guid>
       <description>&lt;p&gt;Data visualisation for a report on humankind&amp;rsquo;s environmental impact.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -76,10 +76,10 @@
     
     <item>
       <title>A New Golden Era of Train Travel</title>
-      <link>https://www.duncangeere.com/portfolio/trainfuture/</link>
+      <link>https://old.duncangeere.com/portfolio/trainfuture/</link>
       <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/trainfuture/</guid>
+      <guid>https://old.duncangeere.com/portfolio/trainfuture/</guid>
       <description>&lt;p&gt;An article about the resurgence of rail.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -87,10 +87,10 @@
     
     <item>
       <title>The 1.5C Carbon Playbook</title>
-      <link>https://www.duncangeere.com/portfolio/carbonplaybook/</link>
+      <link>https://old.duncangeere.com/portfolio/carbonplaybook/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/carbonplaybook/</guid>
+      <guid>https://old.duncangeere.com/portfolio/carbonplaybook/</guid>
       <description>&lt;p&gt;Editing and data visualisation for a guide to cutting emissions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -98,10 +98,10 @@
     
     <item>
       <title>The Beginning, The Middle &amp; The New Beginning</title>
-      <link>https://www.duncangeere.com/portfolio/newbeginning/</link>
+      <link>https://old.duncangeere.com/portfolio/newbeginning/</link>
       <pubDate>Sun, 06 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/newbeginning/</guid>
+      <guid>https://old.duncangeere.com/portfolio/newbeginning/</guid>
       <description>&lt;p&gt;A new way of looking at storytelling in data visualization.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -109,10 +109,10 @@
     
     <item>
       <title>Beautiful News</title>
-      <link>https://www.duncangeere.com/portfolio/beautifulnews/</link>
+      <link>https://old.duncangeere.com/portfolio/beautifulnews/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/beautifulnews/</guid>
+      <guid>https://old.duncangeere.com/portfolio/beautifulnews/</guid>
       <description>&lt;p&gt;Unseen trends, uplifting stats - daily.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -120,10 +120,10 @@
     
     <item>
       <title>Soviet Space Dogs</title>
-      <link>https://www.duncangeere.com/portfolio/spacedogs/</link>
+      <link>https://old.duncangeere.com/portfolio/spacedogs/</link>
       <pubDate>Sat, 07 Sep 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/spacedogs/</guid>
+      <guid>https://old.duncangeere.com/portfolio/spacedogs/</guid>
       <description>&lt;p&gt;Visualising the Catalogue of Canine Cosmonauts.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -131,10 +131,10 @@
     
     <item>
       <title>Soviet Space Dogs Database</title>
-      <link>https://www.duncangeere.com/portfolio/spacedogsdatabase/</link>
+      <link>https://old.duncangeere.com/portfolio/spacedogsdatabase/</link>
       <pubDate>Sun, 21 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/spacedogsdatabase/</guid>
+      <guid>https://old.duncangeere.com/portfolio/spacedogsdatabase/</guid>
       <description>&lt;p&gt;Cataloguing the heroism of the dogs who participated in the Soviet space program in the 1950s and 1960s.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -142,10 +142,10 @@
     
     <item>
       <title>Essential Dataviz Books</title>
-      <link>https://www.duncangeere.com/portfolio/datavizbooks/</link>
+      <link>https://old.duncangeere.com/portfolio/datavizbooks/</link>
       <pubDate>Thu, 11 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/datavizbooks/</guid>
+      <guid>https://old.duncangeere.com/portfolio/datavizbooks/</guid>
       <description>&lt;p&gt;A library of essential books on information design.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -153,10 +153,10 @@
     
     <item>
       <title>Time for Heroes</title>
-      <link>https://www.duncangeere.com/portfolio/timeforheroes/</link>
+      <link>https://old.duncangeere.com/portfolio/timeforheroes/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/timeforheroes/</guid>
+      <guid>https://old.duncangeere.com/portfolio/timeforheroes/</guid>
       <description>&lt;p&gt;A map of mid-00s indie band influence.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -164,10 +164,10 @@
     
     <item>
       <title>Analyse Your Eurovision Party</title>
-      <link>https://www.duncangeere.com/portfolio/eurovisionparty/</link>
+      <link>https://old.duncangeere.com/portfolio/eurovisionparty/</link>
       <pubDate>Sat, 18 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/eurovisionparty/</guid>
+      <guid>https://old.duncangeere.com/portfolio/eurovisionparty/</guid>
       <description>&lt;p&gt;A DIY statistical analysis tool for Eurovision.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -175,10 +175,10 @@
     
     <item>
       <title>The 00s Indie Band Database</title>
-      <link>https://www.duncangeere.com/portfolio/00sindiedatabase/</link>
+      <link>https://old.duncangeere.com/portfolio/00sindiedatabase/</link>
       <pubDate>Thu, 16 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/00sindiedatabase/</guid>
+      <guid>https://old.duncangeere.com/portfolio/00sindiedatabase/</guid>
       <description>&lt;p&gt;Cataloguing the amazing music of the mid-2000s.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -186,19 +186,19 @@
     
     <item>
       <title>Data Visualization Society</title>
-      <link>https://www.duncangeere.com/portfolio/datavizsociety/</link>
+      <link>https://old.duncangeere.com/portfolio/datavizsociety/</link>
       <pubDate>Fri, 03 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/datavizsociety/</guid>
+      <guid>https://old.duncangeere.com/portfolio/datavizsociety/</guid>
       <description>&lt;p&gt;&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Are There Too Many People?</title>
-      <link>https://www.duncangeere.com/portfolio/toomanypeople/</link>
+      <link>https://old.duncangeere.com/portfolio/toomanypeople/</link>
       <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/toomanypeople/</guid>
+      <guid>https://old.duncangeere.com/portfolio/toomanypeople/</guid>
       <description>&lt;p&gt;An article for BBC Wildlife magazine asking whether there are too many people in the world.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -206,10 +206,10 @@
     
     <item>
       <title>How Do We Get To Zero Greenhouse Gas Emissions?</title>
-      <link>https://www.duncangeere.com/portfolio/zerocarbon/</link>
+      <link>https://old.duncangeere.com/portfolio/zerocarbon/</link>
       <pubDate>Mon, 15 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/zerocarbon/</guid>
+      <guid>https://old.duncangeere.com/portfolio/zerocarbon/</guid>
       <description>&lt;p&gt;A graphical blueprint on how we might get to net zero carbon emissions by 2050.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -217,10 +217,10 @@
     
     <item>
       <title>In Other Waters</title>
-      <link>https://www.duncangeere.com/portfolio/inotherwaters/</link>
+      <link>https://old.duncangeere.com/portfolio/inotherwaters/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/inotherwaters/</guid>
+      <guid>https://old.duncangeere.com/portfolio/inotherwaters/</guid>
       <description>&lt;p&gt;Visualizing the world&amp;rsquo;s international fishing fleets.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -228,10 +228,10 @@
     
     <item>
       <title>Ten Predictions For 2019</title>
-      <link>https://www.duncangeere.com/portfolio/2019predic/</link>
+      <link>https://old.duncangeere.com/portfolio/2019predic/</link>
       <pubDate>Tue, 04 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/2019predic/</guid>
+      <guid>https://old.duncangeere.com/portfolio/2019predic/</guid>
       <description>&lt;p&gt;Editing on Nesta&amp;rsquo;s 2019 predictions.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -239,10 +239,10 @@
     
     <item>
       <title>A Noxious Problem</title>
-      <link>https://www.duncangeere.com/portfolio/noxprob/</link>
+      <link>https://old.duncangeere.com/portfolio/noxprob/</link>
       <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/noxprob/</guid>
+      <guid>https://old.duncangeere.com/portfolio/noxprob/</guid>
       <description>&lt;p&gt;A series for How We Get To Next about why the world&amp;rsquo;s air pollution crisis is not improving.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -250,10 +250,10 @@
     
     <item>
       <title>Exponential Climate Action Roadmap</title>
-      <link>https://www.duncangeere.com/portfolio/xroadmap/</link>
+      <link>https://old.duncangeere.com/portfolio/xroadmap/</link>
       <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/xroadmap/</guid>
+      <guid>https://old.duncangeere.com/portfolio/xroadmap/</guid>
       <description>&lt;p&gt;Editing, structure, design and data visualisation for a major scientific report on climate change.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -261,10 +261,10 @@
     
     <item>
       <title>Solar Trains</title>
-      <link>https://www.duncangeere.com/portfolio/solartrains/</link>
+      <link>https://old.duncangeere.com/portfolio/solartrains/</link>
       <pubDate>Wed, 25 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/solartrains/</guid>
+      <guid>https://old.duncangeere.com/portfolio/solartrains/</guid>
       <description>&lt;p&gt;Illustration and cartography for a report into the potential for solar powered trains.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -272,10 +272,10 @@
     
     <item>
       <title>Block of the Week</title>
-      <link>https://www.duncangeere.com/portfolio/blockoftheweek/</link>
+      <link>https://old.duncangeere.com/portfolio/blockoftheweek/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/blockoftheweek/</guid>
+      <guid>https://old.duncangeere.com/portfolio/blockoftheweek/</guid>
       <description>&lt;p&gt;A series for the official Minecraft website, covering every block in the game.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -283,10 +283,10 @@
     
     <item>
       <title>Cleaning Up After Dieselgate</title>
-      <link>https://www.duncangeere.com/portfolio/dieselgate/</link>
+      <link>https://old.duncangeere.com/portfolio/dieselgate/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/dieselgate/</guid>
+      <guid>https://old.duncangeere.com/portfolio/dieselgate/</guid>
       <description>&lt;p&gt;Article about Volkswagen&amp;rsquo;s emissions-cheating scandal.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -294,10 +294,10 @@
     
     <item>
       <title>Confronting Dr Robot</title>
-      <link>https://www.duncangeere.com/portfolio/drrobot/</link>
+      <link>https://old.duncangeere.com/portfolio/drrobot/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/drrobot/</guid>
+      <guid>https://old.duncangeere.com/portfolio/drrobot/</guid>
       <description>&lt;p&gt;Editing on a Nesta report about the impact of artificial intelligence on healthcare.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -305,10 +305,10 @@
     
     <item>
       <title>Disappearing Languages</title>
-      <link>https://www.duncangeere.com/portfolio/disappearinglanguages/</link>
+      <link>https://old.duncangeere.com/portfolio/disappearinglanguages/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/disappearinglanguages/</guid>
+      <guid>https://old.duncangeere.com/portfolio/disappearinglanguages/</guid>
       <description>&lt;p&gt;Writing, development and data visualisation for a visual essay on the world&amp;rsquo;s endangered languages.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -316,10 +316,10 @@
     
     <item>
       <title>Fowl Plague</title>
-      <link>https://www.duncangeere.com/portfolio/fowlplague/</link>
+      <link>https://old.duncangeere.com/portfolio/fowlplague/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/fowlplague/</guid>
+      <guid>https://old.duncangeere.com/portfolio/fowlplague/</guid>
       <description>&lt;p&gt;A series for How We Get To Next about the past, present and future of avian influenza.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -327,10 +327,10 @@
     
     <item>
       <title>Lost Rivers: Heat Pumps</title>
-      <link>https://www.duncangeere.com/portfolio/heatpumps/</link>
+      <link>https://old.duncangeere.com/portfolio/heatpumps/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/heatpumps/</guid>
+      <guid>https://old.duncangeere.com/portfolio/heatpumps/</guid>
       <description>&lt;p&gt;Explainer on how heat pumps work for a report exploring the potential to harvest heat energy from London&amp;rsquo;s hidden underground rivers.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -338,10 +338,10 @@
     
     <item>
       <title>Make Your Own Organ-On-a-Chip</title>
-      <link>https://www.duncangeere.com/portfolio/organsonchips/</link>
+      <link>https://old.duncangeere.com/portfolio/organsonchips/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/organsonchips/</guid>
+      <guid>https://old.duncangeere.com/portfolio/organsonchips/</guid>
       <description>&lt;p&gt;Development of an simulation showing how an organ-on-a-chip works.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -349,10 +349,10 @@
     
     <item>
       <title>Neglected Tropical Diseases</title>
-      <link>https://www.duncangeere.com/portfolio/ntds/</link>
+      <link>https://old.duncangeere.com/portfolio/ntds/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/ntds/</guid>
+      <guid>https://old.duncangeere.com/portfolio/ntds/</guid>
       <description>&lt;p&gt;Writing, development and data visualisations for an explainer on neglected tropical diseases (NTDs).&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -360,10 +360,10 @@
     
     <item>
       <title>Structure de Quadrilatéres</title>
-      <link>https://www.duncangeere.com/portfolio/quarilateres/</link>
+      <link>https://old.duncangeere.com/portfolio/quarilateres/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/quarilateres/</guid>
+      <guid>https://old.duncangeere.com/portfolio/quarilateres/</guid>
       <description>&lt;p&gt;Animated algorithmic art on Observablehq.com.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -371,10 +371,10 @@
     
     <item>
       <title>Where Next for Nuclear Energy?</title>
-      <link>https://www.duncangeere.com/portfolio/nuclearenergy/</link>
+      <link>https://old.duncangeere.com/portfolio/nuclearenergy/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/nuclearenergy/</guid>
+      <guid>https://old.duncangeere.com/portfolio/nuclearenergy/</guid>
       <description>&lt;p&gt;Article about nuclear power in the wake of Chernobyl and Fukushima.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -382,10 +382,10 @@
     
     <item>
       <title>Why We Name The Weather</title>
-      <link>https://www.duncangeere.com/portfolio/nametheweather/</link>
+      <link>https://old.duncangeere.com/portfolio/nametheweather/</link>
       <pubDate>Tue, 24 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/nametheweather/</guid>
+      <guid>https://old.duncangeere.com/portfolio/nametheweather/</guid>
       <description>&lt;p&gt;An article exploring the tradition of naming storms and other extreme weather events.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -393,10 +393,10 @@
     
     <item>
       <title>How to Live Forever</title>
-      <link>https://www.duncangeere.com/portfolio/liveforever/</link>
+      <link>https://old.duncangeere.com/portfolio/liveforever/</link>
       <pubDate>Sun, 20 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/liveforever/</guid>
+      <guid>https://old.duncangeere.com/portfolio/liveforever/</guid>
       <description>&lt;p&gt;Feature for Techradar on life extension.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -404,10 +404,10 @@
     
     <item>
       <title>Cable Cars Are Changing the World</title>
-      <link>https://www.duncangeere.com/portfolio/cablecars/</link>
+      <link>https://old.duncangeere.com/portfolio/cablecars/</link>
       <pubDate>Mon, 24 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/cablecars/</guid>
+      <guid>https://old.duncangeere.com/portfolio/cablecars/</guid>
       <description>&lt;p&gt;An article for How We Get To Next about unconventional mass transit.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -415,10 +415,10 @@
     
     <item>
       <title>Why The Lab Coat Changed Medical History</title>
-      <link>https://www.duncangeere.com/portfolio/labcoat/</link>
+      <link>https://old.duncangeere.com/portfolio/labcoat/</link>
       <pubDate>Fri, 09 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/labcoat/</guid>
+      <guid>https://old.duncangeere.com/portfolio/labcoat/</guid>
       <description>&lt;p&gt;An article for How We Get To Next about the cultural history of the lab coat.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
@@ -426,10 +426,10 @@
     
     <item>
       <title>The Changing Arctic</title>
-      <link>https://www.duncangeere.com/portfolio/changingarctic/</link>
+      <link>https://old.duncangeere.com/portfolio/changingarctic/</link>
       <pubDate>Fri, 16 May 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.duncangeere.com/portfolio/changingarctic/</guid>
+      <guid>https://old.duncangeere.com/portfolio/changingarctic/</guid>
       <description>&lt;p&gt;A travelogue of a research trip to the Arctic circle.&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
